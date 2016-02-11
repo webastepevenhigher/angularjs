@@ -6,6 +6,25 @@
  *    user zoom.
  */
 
+/** 
+ * Mark Changes to certain predefined styling 
+ =========================================================================================
+**/
+
+h1.mark_title {
+  margin: 30px 20px 10px;
+  font-size: 30px;
+  font-weight: bold;
+  font-style: italic;
+  font-family:Georgia, serif;
+  text-align: center;
+}
+
+/** 
+ * End of webastephigher's changes to predefined styling
+ ====================================================================================== 
+**/
+
 html {
   font-family: sans-serif; /* 1 */
   -ms-text-size-adjust: 100%; /* 2 */
